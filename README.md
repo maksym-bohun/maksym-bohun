@@ -28,14 +28,4 @@
 
 ## Some of my projects:
 
-<div style='display: flex; width: 100%'>
-  <video width="500" autoplay loop muted style='width: 75%; display: block; margin: 1rem auto;'>
-    <source src="./projects/Electro.mp4" type="video/mp4" />
-  </video>
-  <video width="500" autoplay loop muted style='width: 75%; display: block; margin: 1rem auto;'>
-    <source src="./projects/TypingTrainer.MP4" type="video/mp4" />
-  </video>
-  <video width="500" autoplay loop muted style='width: 75%; display: block; margin: 1rem auto;'>
-    <source src="./projects/BookShop.MP4" type="video/mp4" />
-  </video>
-</div>
+![Video](./projects/Electro.gif)
