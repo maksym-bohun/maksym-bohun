@@ -25,7 +25,3 @@
 ## Contact
 
 📧 You can reach me at [maks.boggun@gmail.com](mailto:maks.boggun@gmail.com).
-
-## Some of my projects:
-
-![Video](./projects/Electro.gif)
